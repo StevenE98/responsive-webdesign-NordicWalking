@@ -1,6 +1,6 @@
 # Responsive Webdesign – Nike Wanderstock
 
-[GitHub Pages Vorschau](https://stevene98.github.io/responsive-webdesign/responsive-webdesign-trailrunning/)
+[Nike Nordic Walking](https://stevene98.github.io/responsive-webdesign-NordicWalking/)
 
 Diese Beispielseite präsentiert Nike-Wanderstöcke. Sie ist komplett in HTML und CSS umgesetzt, nutzt Tailwind CSS und bindet über das `<model-viewer>`-Element ein 3D-Modell ein.
 
